@@ -173,7 +173,7 @@ GameObject:
   - 124: {fileID: 559091861}
   - 81: {fileID: 559091860}
   m_Layer: 0
-  m_Name: LowreGuide
+  m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -232,11 +232,11 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 1
+  orthographic size: 0.3
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 4294967039
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -330,7 +330,7 @@ Transform:
   m_GameObject: {fileID: 1231723570}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.049, y: 0.052, z: 0.61}
-  m_LocalScale: {x: 10, y: 20, z: 20}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -348,7 +348,7 @@ GameObject:
   - 81: {fileID: 1518356468}
   - 114: {fileID: 1518356473}
   m_Layer: 0
-  m_Name: Main Camera
+  m_Name: LowreGuide
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -399,7 +399,7 @@ Camera:
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967039
+    m_Bits: 256
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 8400000, guid: 5139323bae9f0c44f85b4bae1dbb8b26, type: 2}
   m_TargetDisplay: 0
