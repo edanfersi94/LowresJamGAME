@@ -1,4 +1,4 @@
 sceneSetups:
-- path: C:/Users/edwar/Desktop/LOWRESJAMGAME/LOWRESJAM/Assets/Scenes/DEBUG/1.unity
+- path: Assets/scenes/DEBUG/1.unity
   isLoaded: 1
   isActive: 1
